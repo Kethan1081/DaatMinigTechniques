@@ -1,4 +1,4 @@
-# DaatMiningTechniques
+# DataMiningTechniques
 My Review of all Data Mining Techniques Learned in CSE 572 course Arizona State University
 
 1. Data Exploration, Visualization, Normalisation and Fetaure Extraction
